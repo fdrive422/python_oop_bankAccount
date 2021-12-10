@@ -1,1 +1,2 @@
-python_oop_bankAccount
+Coding Dojo Python Assignment
+"BankAccount" using OOP
